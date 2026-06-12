@@ -11,13 +11,15 @@
 
 **Featured Projects:**
 
-*MindBridge:*
-Hackathon project that received 2nd Place and the Loving Grace Ethics Award at an Anthropic Claude Hackathon.
+*MindBridge (Hackathon, 2nd Place + Ethics Award)*
+Mental health support platform built during an Anthropic Claude Hackathon.
 Tech: React, TypeScript, FastAPI, Supabase, Claude API
+Repository: https://github.com/xand1ex999/MindBridge
 
 *Second Year CS207 Cryptograms Project:*
 University team project involving cryptogram design, development, debugging, and collaboration with the team.
 Tech: Java
+Repository: https://gitlab.cis.strath.ac.uk/xgb23125/cs207_team9_the_cryptogram
 
 Currently Learning
 
